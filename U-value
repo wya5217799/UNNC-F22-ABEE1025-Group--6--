@@ -1,2 +1,6 @@
 import tkinter as tk
-
+  tk = tkinter.Tk()
+  tk.geometry('300x210+500+200')
+  tk.resizable(False, False)
+  tk.title(‘U值计算器’)
+  
